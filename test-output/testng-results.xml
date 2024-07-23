@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-22T22:30:53 IST" name="Default suite" finished-at="2024-07-22T22:31:04 IST" duration-ms="11845">
+    <groups>
+    </groups>
+    <test started-at="2024-07-22T22:30:53 IST" name="Default test" finished-at="2024-07-22T22:31:04 IST" duration-ms="11845">
+      <class name="com.test.FiveTest">
+        <test-method is-config="true" signature="verifyLoginTest()[pri:0, instance:com.test.FiveTest@27406a17]" started-at="2024-07-22T22:30:53 IST" name="verifyLoginTest" finished-at="2024-07-22T22:30:55 IST" duration-ms="2402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginTest -->
+        <test-method signature="testProductSelection()[pri:0, instance:com.test.FiveTest@27406a17]" started-at="2024-07-22T22:30:55 IST" name="testProductSelection" finished-at="2024-07-22T22:31:04 IST" duration-ms="8961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testProductSelection -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.FiveTest@27406a17]" started-at="2024-07-22T22:31:04 IST" name="tearDown" finished-at="2024-07-22T22:31:04 IST" duration-ms="443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.FiveTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
